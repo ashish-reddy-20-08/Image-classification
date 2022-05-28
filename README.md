@@ -1,5 +1,5 @@
 # Image-classification
-classifying the images using tensor flow
+classifying the images using tensor flow.
 
 
 In this project we use an inbuilt tensor flow dataset and try to classify the images and used the model 
